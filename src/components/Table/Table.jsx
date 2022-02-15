@@ -14,19 +14,19 @@ function Table() {
                     <td>Clean Fridge</td>
                     <td>Kelsey</td>
                     <td>02/20/2022</td>
-                    <td><button class="btn-complete">Complete</button></td>
+                    <td><button>Complete</button></td>
                 </tr>
                 <tr>
                     <td>Bake 19 Cakes</td>
                     <td>Kelsey</td>
                     <td>03/01/2022</td>
-                    <td><button class="btn-complete">Complete</button></td>
+                    <td><button>Complete</button></td>
                 </tr>
                 <tr>
                     <td>Watch LOTR Trilogy</td>
                     <td>Kelsey</td>
                     <td>12/31/2022</td>
-                    <td><button class="btn-delete">Delete</button></td>
+                    <td><button>Delete</button></td>
                 </tr>
             </tbody>
         </table>
